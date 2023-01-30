@@ -1,1 +1,1 @@
-# ShippingCalculator-CPP
+# ShippingCalculator-C
